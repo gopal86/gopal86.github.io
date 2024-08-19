@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://gopal86.github.io/sitemap.xml
